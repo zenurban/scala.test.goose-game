@@ -19,9 +19,9 @@ Goose game is a game where two or more players move pieces around a track by rol
 2. [**run:** sbt run]()
 3. [**type:** help]()
 
-#####Alternatively you can build the executable fat jar:
+##Alternatively you can build the executable fat jar:
 1. sbt assembly 
 2. java -jar target/scala-2.12/scala-goose-game-assembly-1.0.0.jar
 
-###Disclaimer:
+##Disclaimer:
 The code is based on https://github.com/alexcarrega/scala-goose-game.git
